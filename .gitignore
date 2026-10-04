@@ -1,0 +1,6 @@
+build/
+.crt/
+.vscode/
+.idea/
+sdkconfig.old
+managed_components/
